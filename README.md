@@ -9,7 +9,7 @@
   - C# programming language
   - Python programming language
   - Web development technologies such as HTML, CSS, and Markdown and more.
-- 💞️ I’m looking to collaborate on Game Development, Programming and Modeling.
+🤝 I'm interested in collaborating on projects related to game development, programming, and modeling.
 - 📫 How to reach me: 
   - Discord: dosocob#6602
   - Email: dosocob@gmail.com
